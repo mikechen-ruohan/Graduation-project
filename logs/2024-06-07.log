@@ -1,0 +1,84 @@
+06-07 16:38:34.077221 [INFO] configInit.py:50 | INFO
+06-07 16:38:34.077221 [INFO] configInit.py:51 | 作者: duckweed
+06-07 16:38:34.078194 [INFO] configInit.py:52 | 当前版本: 0.1.0
+06-07 16:38:34.078194 [INFO] configInit.py:53 | python: 3.9.7
+06-07 16:38:35.301980 [INFO] configInit.py:55 | 文件初始化成功
+06-07 16:38:35.588236 [INFO] login.py:37 | 开始初始化窗口
+06-07 16:38:35.591156 [INFO] login.py:44 | 窗口初始化完成
+06-07 16:38:56.685342 [INFO] login.py:170 | 注册成功
+06-07 16:40:40.515270 [INFO] configInit.py:50 | INFO
+06-07 16:40:40.516244 [INFO] configInit.py:51 | 作者: duckweed
+06-07 16:40:40.516244 [INFO] configInit.py:52 | 当前版本: 0.1.0
+06-07 16:40:40.516244 [INFO] configInit.py:53 | python: 3.9.7
+06-07 16:40:40.516244 [INFO] configInit.py:55 | 文件初始化成功
+06-07 16:40:40.794037 [INFO] login.py:37 | 开始初始化窗口
+06-07 16:40:40.797237 [INFO] login.py:44 | 窗口初始化完成
+06-07 17:31:03.402447 [INFO] configInit.py:50 | INFO
+06-07 17:31:03.403414 [INFO] configInit.py:51 | 作者: duckweed
+06-07 17:31:03.403414 [INFO] configInit.py:52 | 当前版本: 0.1.0
+06-07 17:31:03.403414 [INFO] configInit.py:53 | python: 3.9.7
+06-07 17:31:03.403414 [INFO] configInit.py:55 | 文件初始化成功
+06-07 17:31:03.854057 [INFO] login.py:37 | 开始初始化窗口
+06-07 17:31:03.856977 [INFO] login.py:44 | 窗口初始化完成
+06-07 17:31:19.067872 [INFO] login.py:82 | 开始登录
+06-07 17:31:19.087972 [INFO] login.py:116 | 登录成功
+06-07 17:31:19.088976 [INFO] login.py:121 | 下次不自动登录
+06-07 17:31:19.154278 [INFO] login.py:129 | 登录成功
+06-07 17:40:56.941704 [INFO] configInit.py:50 | INFO
+06-07 17:40:56.942677 [INFO] configInit.py:51 | 作者: duckweed
+06-07 17:40:56.942677 [INFO] configInit.py:52 | 当前版本: 0.1.0
+06-07 17:40:56.943650 [INFO] configInit.py:53 | python: 3.9.7
+06-07 17:40:56.943650 [INFO] configInit.py:55 | 文件初始化成功
+06-07 17:40:57.362130 [INFO] login.py:37 | 开始初始化窗口
+06-07 17:40:57.364077 [INFO] login.py:44 | 窗口初始化完成
+06-07 17:41:06.103203 [INFO] login.py:82 | 开始登录
+06-07 17:41:06.107096 [INFO] login.py:116 | 登录成功
+06-07 17:41:06.107096 [INFO] login.py:121 | 下次不自动登录
+06-07 17:41:06.129192 [INFO] login.py:129 | 登录成功
+06-07 17:41:12.446274 [INFO] login.py:82 | 开始登录
+06-07 17:41:12.449241 [INFO] login.py:116 | 登录成功
+06-07 17:41:12.449241 [INFO] login.py:121 | 下次不自动登录
+06-07 17:41:12.461554 [INFO] login.py:129 | 登录成功
+06-07 17:44:49.026913 [INFO] configInit.py:50 | INFO
+06-07 17:44:49.026913 [INFO] configInit.py:51 | 作者: duckweed
+06-07 17:44:49.027915 [INFO] configInit.py:52 | 当前版本: 0.1.0
+06-07 17:44:49.027915 [INFO] configInit.py:53 | python: 3.9.7
+06-07 17:44:49.027915 [INFO] configInit.py:55 | 文件初始化成功
+06-07 17:44:49.246216 [INFO] login.py:37 | 开始初始化窗口
+06-07 17:44:49.249187 [INFO] login.py:44 | 窗口初始化完成
+06-07 17:45:53.002055 [INFO] configInit.py:50 | INFO
+06-07 17:45:53.003019 [INFO] configInit.py:51 | 作者: duckweed
+06-07 17:45:53.003019 [INFO] configInit.py:52 | 当前版本: 0.1.0
+06-07 17:45:53.003019 [INFO] configInit.py:53 | python: 3.9.7
+06-07 17:45:53.003019 [INFO] configInit.py:55 | 文件初始化成功
+06-07 17:46:43.988074 [INFO] configInit.py:50 | INFO
+06-07 17:46:43.988074 [INFO] configInit.py:51 | 作者: duckweed
+06-07 17:46:43.988074 [INFO] configInit.py:52 | 当前版本: 0.1.0
+06-07 17:46:43.989066 [INFO] configInit.py:53 | python: 3.9.7
+06-07 17:46:43.989066 [INFO] configInit.py:55 | 文件初始化成功
+06-07 17:46:44.201168 [INFO] login.py:37 | 开始初始化窗口
+06-07 17:46:44.204087 [INFO] login.py:44 | 窗口初始化完成
+06-07 17:48:46.668053 [INFO] configInit.py:50 | INFO
+06-07 17:48:46.668053 [INFO] configInit.py:51 | 作者: duckweed
+06-07 17:48:46.669028 [INFO] configInit.py:52 | 当前版本: 0.1.0
+06-07 17:48:46.669028 [INFO] configInit.py:53 | python: 3.9.7
+06-07 17:48:46.669028 [INFO] configInit.py:55 | 文件初始化成功
+06-07 17:48:46.954435 [INFO] login.py:37 | 开始初始化窗口
+06-07 17:48:46.956382 [INFO] login.py:44 | 窗口初始化完成
+06-07 17:48:58.410956 [INFO] configInit.py:50 | INFO
+06-07 17:48:58.410956 [INFO] configInit.py:51 | 作者: duckweed
+06-07 17:48:58.410956 [INFO] configInit.py:52 | 当前版本: 0.1.0
+06-07 17:48:58.410956 [INFO] configInit.py:53 | python: 3.9.7
+06-07 17:48:58.410956 [INFO] configInit.py:55 | 文件初始化成功
+06-07 17:48:58.626834 [INFO] login.py:37 | 开始初始化窗口
+06-07 17:48:58.628832 [INFO] login.py:44 | 窗口初始化完成
+06-07 17:49:05.207640 [INFO] login.py:37 | 开始初始化窗口
+06-07 17:49:05.211571 [INFO] login.py:44 | 窗口初始化完成
+06-07 17:49:13.266503 [INFO] login.py:82 | 开始登录
+06-07 17:49:13.270021 [INFO] login.py:116 | 登录成功
+06-07 17:49:13.270984 [INFO] login.py:121 | 下次不自动登录
+06-07 17:49:13.270984 [INFO] login.py:129 | 登录成功
+06-07 18:09:53.867414 [INFO] login.py:37 | 开始初始化窗口
+06-07 18:09:53.871479 [INFO] login.py:44 | 窗口初始化完成
+06-07 18:09:59.281114 [INFO] login.py:37 | 开始初始化窗口
+06-07 18:09:59.284034 [INFO] login.py:44 | 窗口初始化完成
